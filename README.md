@@ -37,15 +37,15 @@ I am a seasoned **Mobile/Android SDK Engineer** based in Surat, specializing in 
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=megh-lath&theme=dark&hide_border=true&show_icons=true" alt="Megh's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=megh-lath-1012&theme=dark&hide_border=true&show_icons=true" alt="Megh's GitHub Stats" />
   </a>
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=megh-lath&layout=compact&theme=dark&hide_border=true&show_icons=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=megh-lath-1012&layout=compact&theme=dark&hide_border=true&show_icons=true" alt="Top Languages" />
   </a>
   <br/>
-  <a href="http://github-readme-streak-stats.herokuapp.com?user=megh-lath&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&show_icons=true">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=megh-lath&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&show_icons=true" alt="GitHub Streak" />
+  <a href="http://github-readme-streak-stats.herokuapp.com?user=megh-lath-1012&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&show_icons=true">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=megh-lath-1012&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&show_icons=true" alt="GitHub Streak" />
   </a>
 </p>
 
